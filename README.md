@@ -1,7 +1,5 @@
-- 👋 Hi, I’m CMD, but that was taken soooooo
-- 👀 I’m interested in WAY too much stuff, and use github as a dumping ground for random shit code
-- 📫 i have a shitty about me [here](https://glowink.pages.dev/)
+- 👋 Hi, I’m Ada and my username on most things is cmd
+- 👀 I use github as a dumping ground for random shit code, so don't expect much
+- 📫 i have a shitty about me [here](https://glowink.pages.dev/) (it really doesnt have much info)
 <!---
-UwUimapewson/UwUimapewson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
