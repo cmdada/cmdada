@@ -1,4 +1,4 @@
-# Now migrated to my own git instance, [here](https://adas.software/ada)
+ Now migrated to my own git instance, [here](https://adas.software/ada)
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Professional+Nerd;Bad+at+explaining+stuff)
