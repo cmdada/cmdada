@@ -1,6 +1,3 @@
- Now migrated to my own git instance, [here](https://adas.software/ada)
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Professional+Nerd;Bad+at+explaining+stuff)
 
 - Hi, I’m Ada and my username on most things is cmd. if you're looking for my linux kernel contributions, those were under cmdada@proton.me
