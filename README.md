@@ -14,7 +14,8 @@ Languges:
 - i have a questionable about me [here](http://about.poweredge.xyz/)(it really doesnt have much info)
 - my three sites are adabit.org, poweredge.xyz and adas.software (adabit and adas.software are more functional than poweredge)
 
-
+![](https://raw.githubusercontent.com/cmdada/test/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/cmdada/test/master/generated/overview.svg#gh-light-mode-only)
 
 
 <!---
