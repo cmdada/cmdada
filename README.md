@@ -4,5 +4,13 @@
 - I use github as a dumping ground for random code, so don't expect much
 - i have a questionable about me [here](http://about.poweredge.xyz/)(it really doesnt have much info)
 - my two sites are poweredge.xyz and adas.software (no guarantee anything will ever work on either)
+
+  
+Stats!
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=cmdada&show_icons=true&theme=dark"/>
+  
+
+
 <!---
 --->
