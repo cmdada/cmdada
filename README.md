@@ -6,6 +6,7 @@ Languges:
   <img src="https://img.shields.io/badge/JavaScript-D92E8A?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-0084ff?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-0084ff?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 - Hi, I’m Ada and my username on most things is cmd. if you're looking for my linux kernel contributions, those were under cmdada@proton.me
