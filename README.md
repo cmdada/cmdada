@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Professional+Nerd;Bad+at+explaining+stuff)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Professional+Nerd;Bad+at+explaining+things)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-D92E8A?style=for-the-badge&logo=javascript&logoColor=white" />
