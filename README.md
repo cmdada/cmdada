@@ -5,6 +5,7 @@ I use github as a dumping ground for random code, so don't expect much
 
 i have too many domains ([my main site](https://adabit.org), [adarun](https://poweredge.xyz), [my git](https://adas.software), https://bhsgsa.org)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdada&size_weight=0.5&count_weight=0.5&theme=radical&langs_count=10&layout=compact"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdada&size_weight=0.5&count_weight=1.0&theme=radical&langs_count=10&layout=compact"/> 
+
 <!---
 --->
