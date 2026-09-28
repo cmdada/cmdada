@@ -8,6 +8,6 @@ I participated in MATE ROV and FIRST Robotics (FRC and FTC as a competitior, FTC
 I'm attending LSSU starting in fall '26
 
 Most of my work isn’t programming, but I enjoy some webdev in my free time and am the owner of  
-[@Team1157](https://github.com/Team1157/) and [@team2036](https://github.com/team2036/).
+[@Team1157](https://github.com/Team1157/), [@team2036](https://github.com/team2036/), and [@Amore-LSSU](https://github.com/Amore-LSSU/).
 
 <!-- end intro -->
